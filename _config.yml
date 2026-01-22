@@ -29,7 +29,7 @@ github_username:  HongChangMo
 about_title: 경력
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  #### 유와이즈원(팀원/ 기업솔루션파트)
+  #### **유와이즈원(팀원/ 기업솔루션파트/ 2023.07 ~ 2025.11)**
     - 소개 : `Smart Runner` 솔루션을 보유한 기업 특화형 그룹웨어 솔루션 회사
     - 역할 : 그룹웨어 솔루션 `Smart Runner` 백엔드 개발 (SI/SM)
     - 업무 :
@@ -40,11 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   ---
   
-  #### 한국문헌정보기술(주)
+  #### **한국문헌정보기술(주)(주임/ 개발팀/ 2019.11~2023.02)**
     - 소개 :  기록관리 표준 및 지침을 준용하고, 다양한 시스템 구축 경험, 기록관리 노하우를 적용하여 기관의 목적에 맞는 기록/ 사료관리시스템 `감어인` 솔루션을 보유한 기록관리 전문기업
     - 역할 : 기록/사료 관리 솔루션 `감어인` 백엔드 개발 (SI/SM)
     - 업무 :
-      - Java, 전자정부프레임워크 
       - 수작업으로 시스템으로 처리하던 썸네일 생성을 자동화하는 Java 프로그램을 개발하여, 외주 비용을 10% 절감하고 업무 소요 기간을 65% 단축시켰습니다.
       - 솔루션 패키지화를 주도하여 코드와 DBMS를 재사용 가능한 모듈로 만들고, 표준 배포 가이드를 제작하여 신규 시스템 구축 기간 단축 및 개발 효율성 증대에 기여했습니다.
       - CI/CD 파이프라인을 구축하여 버전 관리 및 배포 프로세스를 효율화하고, 명확한 가이드를 통해 신규 입사자의 교육 및 인수인계 비용을 절감했습니다.
@@ -63,16 +62,9 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: GS 에너지 그룹웨어 시스템 구축
+        sub_title: 유와이즈원
+        caption: 2025.01 ~ 2025.08
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -80,7 +72,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: right@
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
